@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Hafsa Anzaha 👋
 
-<!--
-**hafsa-anzaha/hafsa-anzaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's Student in Artificial Intelligence & Cybersecurity
 
-Here are some ideas to get you started:
+🔐 Passionate about Cybersecurity, Artificial Intelligence, and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- 🎓 Studying AI & Cybersecurity.
+- 🤖 Interested in Machine Learning for Cybersecurity.
+- 🛡️ Exploring Network Security and Threat Detection.
+- 💻 Building practical projects combining AI and Cybersecurity.
+
+### Areas of Interest
+- Machine Learning & Deep Learning
+- Network Intrusion Detection
+- Phishing Detection
+- AI-driven Cybersecurity
+- Cryptography
+
+### Featured Projects
+- **CyberLens AI:** AI-powered cybersecurity awareness platform.
+- **Network Intrusion Detection:** Machine Learning experiments using XGBoost and Isolation Forest.
+- **RSA Encryption:** Implementation of RSA cryptography in Python.
+
+### Connect With Me
+- LinkedIn:  www.linkedin.com/in/hafsa-anzaha          
+- GitHub: https://github.com/hafsa-anzaha
